@@ -80,5 +80,3 @@ Citations:
 [7] https://www.kaggle.com/code/smitisinghal/skin-disease-classification
 [8] https://www.kaggle.com/datasets/syedalinaqvi/augmented-skin-conditions-image-dataset/code
 
----
-Answer from Perplexity: pplx.ai/share
