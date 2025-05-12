@@ -1,0 +1,77 @@
+# Ignore all archive folders
+archive/
+**/archive/
+
+# Ignore the model weights file
+skin_condition.pth
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+*.save
+
+# Ignore coverage reports
+.coverage
+coverage.xml
+*.cover
+*.coveragerc
+
+# Ignore test result files
+test-results/
+junit-*.xml
+
+# Ignore build directories
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Ignore distribution packages
+*.tar.gz
+*.zip
+*.whl
+
+# Ignore IDE project files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore macOS specific files
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Ignore Linux specific files
+*~
+.nfs*
